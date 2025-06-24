@@ -75,7 +75,7 @@ lib/
 #### Kurulum Adımları
 ```bash
 # Projeyi klonlayın
-git clone https://github.com/yourusername/guess-glass.git
+git clone https://github.com/mockirdev/guess-glass.git
 cd guess-glass
 
 # Bağımlılıkları yükleyin
@@ -205,7 +205,7 @@ lib/
 #### Installation Steps
 ```bash
 # Clone the project
-git clone https://github.com/yourusername/guess-glass.git
+git clone https://github.com/mockirdev/guess-glass.git
 cd guess-glass
 
 # Install dependencies
