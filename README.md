@@ -222,7 +222,7 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert. Siehe die `LICENSE`-Datei f�
 
 ## 👨‍💻 Developer
 
-Developed with ❤️ using Flutter
+Developed with MockirDev using Flutter
 
 ---
 
