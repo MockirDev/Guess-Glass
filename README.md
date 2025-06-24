@@ -67,14 +67,6 @@
 - ⚠️ Web (Sınırlı destek)
 - ⚠️ Desktop (Deneysel)
 
-### 🤝 Katkıda Bulunma
-
-1. Bu repository'yi fork edin
-2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Add amazing feature'`)
-4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
-5. Pull Request oluşturun
-
 ### 📄 Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
@@ -144,14 +136,6 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 - ⚠️ Web (Limited support)
 - ⚠️ Desktop (Experimental)
 
-### 🤝 Contributing
-
-1. Fork this repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push your branch (`git push origin feature/amazing-feature`)
-5. Create a Pull Request
-
 ### 📄 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
@@ -220,14 +204,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - ✅ iOS (iOS 12+)
 - ⚠️ Web (Begrenzte Unterstützung)
 - ⚠️ Desktop (Experimentell)
-
-### 🤝 Beitragen
-
-1. Forken Sie dieses Repository
-2. Erstellen Sie einen Feature-Branch (`git checkout -b feature/amazing-feature`)
-3. Committen Sie Ihre Änderungen (`git commit -m 'Add amazing feature'`)
-4. Pushen Sie Ihren Branch (`git push origin feature/amazing-feature`)
-5. Erstellen Sie einen Pull Request
 
 ### 📄 Lizenz
 
